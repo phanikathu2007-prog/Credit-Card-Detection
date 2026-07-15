@@ -1,0 +1,6 @@
+data/
+model/fraud_model.pkl
+__pycache__/
+*.pyc
+.env
+venv/
